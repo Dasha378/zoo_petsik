@@ -1,0 +1,108 @@
+header {
+    text-align: center;
+    background-color: rgb(156, 250, 156);
+    padding: 10px;
+border:5px solid rgb(73, 129, 0);
+}
+
+header a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 5px solid rgb(113, 199, 1);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color:#d40763;
+}
+h2 {
+    
+    font-size: 15px;
+    color:#2e0015;
+}
+h3 {
+    
+    font-size: 15px;
+    color:#20000f;
+}
+h4 {
+    
+    font-size: 15px;
+    color:#110008;
+}
+h5 {
+    
+    font-size: 15px;
+    color:#20000f;
+}
+h6 {
+    
+    font-size: 15px;
+    color:#20000f;
+}
+h7 {
+    
+    font-size: 15px;
+    color:#20000f;
+}
+h8 {
+    
+    font-size: 15px;
+    color:#20000f;
+}
+main{
+    background-color:#ff8989;
+}
+header img {
+    width: 100px;
+    height: 60px;
+    margin-right: 100px;
+
+}
+main img {
+    width: 100px;
+    height: 100px;
+   margin-left: 250px;
+
+}
+
+
+p{
+margin-left: 400px;
+font-size: 18px;
+color: rgb(160, 33, 33);
+
+}
+footer {
+    background-color:rgb(156, 250, 156);
+    padding: 10px;
+}
+
+footer p {
+    text-align:left 20px;
+    color: rgb(0, 0, 0);
+   margin-right: 45px;
+}
+footer img{
+width: 35px;
+    height: 35px;
+     margin-right: 230px;
+   
+
+}
+.maga{
+border: 5px solid rgb(207, 50, 50);
+border-radius:10px;
+
+}
+.gygy{
+border: 5px solid rgb(125, 199, 7);
+border-radius:10px;
+
+}
